@@ -1,14 +1,20 @@
 <h1 align="center">Hi, I'm Hugo Barrera 👋👋</h1>
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img alt="dsmark" align="right"  height="50%" width="30%" src=https://media.tenor.com/N64YrZVipkMAAAAj/bridget-guilty-gear.gif>
 <h3> 👨‍💻: &nbsp;About Me </h3>
 
 - 🔭 I’m currently studying programming and cybersecurity in Chile.
 - :heart: My favorite language: SQL
 - 🌱 I am currently learning all kinds of programming languages.
 - 💬 I speak English and Spanish.
-- 🌍 i am from the best country of Chile. 🇨🇱
+- 🌍 I am from the best country of Chile. 🇨🇱
 - 💜 Interests: Video Games, Programming, Music and sleep.
 - ⚡ Fun fact: I love airsoft but I have never been able to play a game.🔫
+
 
 
 <div align="center">
