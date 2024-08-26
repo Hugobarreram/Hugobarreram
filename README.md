@@ -11,7 +11,6 @@
 - 💬 I speak English and Spanish.
 - 🌍 I am from the best country of Chile. 🇨🇱
 - 💜 Interests: Video Games, Programming, Music and sleep.
-- ⚡ Fun fact: I love airsoft but I have never been able to play a game.🔫
 
 
 
